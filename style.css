@@ -189,12 +189,12 @@ a {
 
 @media (max-width: 800px) {
 
+  body {
+    overflow-x: hidden;
+  }
+
   .container {
     height: 100vh;
-    
-    
-   
-    
   }
   
 .header-1 {
